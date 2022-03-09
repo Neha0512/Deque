@@ -1,5 +1,5 @@
 // inserting an element in deque take O(n) time
-// front should always be at 0
+// front index should always be at 0 and rear index is size-1
 
 #include<bits/stdc++.h>
 using namespace std;
